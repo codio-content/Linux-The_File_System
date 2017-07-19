@@ -1,0 +1,312 @@
+{
+ "sections": [
+  {
+   "id": "af10a0bc-a8f1-a9c6-458e-e5b95ea0a7f3",
+   "title": "Recap",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: . .guides/bashtests/init.sh ; clear",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels-tree",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Recap-af10.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "b672bf30-78d1-4467-af7f-356332d250ec",
+   "title": "What we'll learn",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/What-we-ll-learn-b672.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "7e36e04-4071-9a69-20d8-574bd431cce",
+   "title": "Project approach",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Project-approach-7e36.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "104ce54e-dfff-38a7-3f62-17b2ebecedec",
+   "title": "Moving files",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Moving-files-104c.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "21d354ad-b9a4-b3c3-c2dc-13fcb3e4a977",
+   "title": "Shortcut",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Shortcut-21d3.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "d77488c0-7dc6-54b3-7984-6605559459a9",
+   "title": "Moving directories",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Moving-directories-d774.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "e5903947-45aa-7ace-2bae-7a8d429adbe3",
+   "title": "Shortcut",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Shortcut-e590.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "72dde779-ab97-4490-515-ffe36ef9b18",
+   "title": "Challenge",
+   "files": [
+    {
+     "path": "#terminal: . .guides/bashtests/init.sh ; .guides/bashtests/workspace-reset.sh ch-1-4 ; clear",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenge-72dd.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "d2cb4e5-5c05-19ea-37dd-761717409dfd",
+   "title": "Renaming files",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Renaming-files-d2cb.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "2bb6c20a-2852-f49e-5afb-fd26435b18bf",
+   "title": "Renaming directories",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Renaming-directories-2bb6.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "27ac59eb-efe4-84b4-7f57-a5e4c300f7a3",
+   "title": "Shortcut",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Shortcut-27ac.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "b4aba11e-a098-bda3-3a38-883c1ccb323",
+   "title": "Challenge",
+   "files": [
+    {
+     "path": "#terminal: . .guides/bashtests/init.sh ; clear",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenge-b4ab.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "c0b83b21-a333-222e-70aa-ee73668724a",
+   "title": "Copying files",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Copying-files-c0b8.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "2e014958-a078-d7bd-8d5b-da74bcbb7673",
+   "title": "Copying directories",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Copying-directories-2e01.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "8953dbbd-3efd-7b2a-7960-89225a00d1ba",
+   "title": "Challenge",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: . .guides/bashtests/init.sh ; .guides/bashtests/workspace-reset.sh ch-3-2",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels-tree",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenge-8953.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "76618567-9cd3-395d-3f1b-8f6279782902",
+   "title": "More effective File Sytem navigation",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: mkdir -p nested-directories/nested-level-1/nested-level-2/nested-level-3 ; . .guides/bashtests/init.sh ; clear",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/More-effective-File-Sytem-navigation-7661.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "283d3ea-b59e-3ef7-ca19-be104279da48",
+   "title": "Absolute paths",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Absolute-paths-283d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "b21d830c-c828-153d-547-b45a1c1fc0f0",
+   "title": "Relative paths",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: . .guides/bashtests/init.sh ; clear",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels-tree",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Relative-paths-b21d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "ddb770a7-4ec1-bbec-5d12-1d6f194df52f",
+   "title": "Wrap up",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Wrap-up-ddb7.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "1b6162d5-bd0e-2b34-fc5b-5cfc21b5135b",
+   "title": "Challenge",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: . .guides/bashtests/init.sh ; .guides/bashtests/workspace-reset.sh ch-4-4 | clear",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels-tree",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenge-1b61.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "2e06a0b7-254b-b471-78d0-fb0414f4fde7",
+   "title": "That's all folks",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/That-s-all-folks-2e06.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "charcoal",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false
+}
