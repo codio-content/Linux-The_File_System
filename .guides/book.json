@@ -1,0 +1,139 @@
+{
+ "name": "Linux-The_File_System",
+ "children": [
+  {
+   "title": "Recap",
+   "id": "af10a0bc-a8f1-a9c6-458e-e5b95ea0a7f3",
+   "pageId": "af10a0bc-a8f1-a9c6-458e-e5b95ea0a7f3",
+   "type": "page"
+  },
+  {
+   "title": "What we'll learn",
+   "id": "b672bf30-78d1-4467-af7f-356332d250ec",
+   "pageId": "b672bf30-78d1-4467-af7f-356332d250ec",
+   "type": "page"
+  },
+  {
+   "title": "Project approach",
+   "id": "7e36e04-4071-9a69-20d8-574bd431cce",
+   "pageId": "7e36e04-4071-9a69-20d8-574bd431cce",
+   "type": "page"
+  },
+  {
+   "title": "Moving files",
+   "id": "104ce54e-dfff-38a7-3f62-17b2ebecedec",
+   "pageId": "104ce54e-dfff-38a7-3f62-17b2ebecedec",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Shortcut",
+     "id": "21d354ad-b9a4-b3c3-c2dc-13fcb3e4a977",
+     "pageId": "21d354ad-b9a4-b3c3-c2dc-13fcb3e4a977",
+     "type": "page"
+    },
+    {
+     "title": "Moving directories",
+     "id": "d77488c0-7dc6-54b3-7984-6605559459a9",
+     "pageId": "d77488c0-7dc6-54b3-7984-6605559459a9",
+     "type": "page"
+    },
+    {
+     "title": "Shortcut",
+     "id": "e5903947-45aa-7ace-2bae-7a8d429adbe3",
+     "pageId": "e5903947-45aa-7ace-2bae-7a8d429adbe3",
+     "type": "page"
+    },
+    {
+     "title": "Challenge",
+     "id": "72dde779-ab97-4490-515-ffe36ef9b18",
+     "pageId": "72dde779-ab97-4490-515-ffe36ef9b18",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Renaming files",
+   "id": "d2cb4e5-5c05-19ea-37dd-761717409dfd",
+   "pageId": "d2cb4e5-5c05-19ea-37dd-761717409dfd",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Renaming directories",
+     "id": "2bb6c20a-2852-f49e-5afb-fd26435b18bf",
+     "pageId": "2bb6c20a-2852-f49e-5afb-fd26435b18bf",
+     "type": "page"
+    },
+    {
+     "title": "Shortcut",
+     "id": "27ac59eb-efe4-84b4-7f57-a5e4c300f7a3",
+     "pageId": "27ac59eb-efe4-84b4-7f57-a5e4c300f7a3",
+     "type": "page"
+    },
+    {
+     "title": "Challenge",
+     "id": "b4aba11e-a098-bda3-3a38-883c1ccb323",
+     "pageId": "b4aba11e-a098-bda3-3a38-883c1ccb323",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Copying files",
+   "id": "c0b83b21-a333-222e-70aa-ee73668724a",
+   "pageId": "c0b83b21-a333-222e-70aa-ee73668724a",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Copying directories",
+     "id": "2e014958-a078-d7bd-8d5b-da74bcbb7673",
+     "pageId": "2e014958-a078-d7bd-8d5b-da74bcbb7673",
+     "type": "page"
+    },
+    {
+     "title": "Challenge",
+     "id": "8953dbbd-3efd-7b2a-7960-89225a00d1ba",
+     "pageId": "8953dbbd-3efd-7b2a-7960-89225a00d1ba",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "More effective File Sytem navigation",
+   "id": "76618567-9cd3-395d-3f1b-8f6279782902",
+   "pageId": "76618567-9cd3-395d-3f1b-8f6279782902",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Absolute paths",
+     "id": "283d3ea-b59e-3ef7-ca19-be104279da48",
+     "pageId": "283d3ea-b59e-3ef7-ca19-be104279da48",
+     "type": "page"
+    },
+    {
+     "title": "Relative paths",
+     "id": "b21d830c-c828-153d-547-b45a1c1fc0f0",
+     "pageId": "b21d830c-c828-153d-547-b45a1c1fc0f0",
+     "type": "page"
+    },
+    {
+     "title": "Wrap up",
+     "id": "ddb770a7-4ec1-bbec-5d12-1d6f194df52f",
+     "pageId": "ddb770a7-4ec1-bbec-5d12-1d6f194df52f",
+     "type": "page"
+    },
+    {
+     "title": "Challenge",
+     "id": "1b6162d5-bd0e-2b34-fc5b-5cfc21b5135b",
+     "pageId": "1b6162d5-bd0e-2b34-fc5b-5cfc21b5135b",
+     "type": "page"
+    },
+    {
+     "title": "That's all folks",
+     "id": "2e06a0b7-254b-b471-78d0-fb0414f4fde7",
+     "pageId": "2e06a0b7-254b-b471-78d0-fb0414f4fde7",
+     "type": "page"
+    }
+   ]
+  }
+ ]
+}
